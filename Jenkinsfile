@@ -69,7 +69,7 @@ spec:
             optional: true
       env:
         - name: CHART_NAME
-          value: template-node-react
+          value: inventory-ui-jav
         - name: CHART_ROOT
           value: chart
         - name: TMP_DIR
